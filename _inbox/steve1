@@ -1,0 +1,5 @@
+Works. Drop that in Steve's incoming/.
+Two things to note for tuning the skill:
+	1.	Transcript is summarized, not verbatim — I reconstructed from memory of this conversation. The extension gives you the verbatim version. For the skill to produce verbatim output it would need to scroll/read the actual DOM, which is a heavier operation. For now, summarized is probably fine for incoming capture.
+	2.	conversation_id is unknown — I can’t read the URL from inside the conversation. The extension solves this properly. The skill is the lightweight “capture now” path; the extension is the complete archive path.
+Both have their place.​​​​​​​​​​​​​​​​
